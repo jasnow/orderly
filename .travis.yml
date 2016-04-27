@@ -1,7 +1,8 @@
 rvm:
   - 2.0.0
   - 2.1.7
-  - 2.2.4
+  - 2.2.5
+  - 2.3.1
 script: 'bundle exec rake'
 gemfile:
   - gemfiles/capybara_1.1.gemfile
