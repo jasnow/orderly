@@ -33,4 +33,5 @@ or, to assert that something does not appear before
 Error handling in place for cases where this or that does not appear on the page.
 
 ## Contributing
+
 Patches welcome! Submit a pull request.
